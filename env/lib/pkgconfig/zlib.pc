@@ -1,0 +1,13 @@
+prefix=/Users/wasilmac/Desktop/git/ztm-ml/env
+exec_prefix=/Users/wasilmac/Desktop/git/ztm-ml/env
+libdir=/Users/wasilmac/Desktop/git/ztm-ml/env/lib
+sharedlibdir=/Users/wasilmac/Desktop/git/ztm-ml/env/lib
+includedir=/Users/wasilmac/Desktop/git/ztm-ml/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

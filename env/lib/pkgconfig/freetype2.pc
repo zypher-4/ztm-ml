@@ -1,0 +1,14 @@
+prefix=/Users/wasilmac/Desktop/git/ztm-ml/env
+exec_prefix=/Users/wasilmac/Desktop/git/ztm-ml/env
+libdir=/Users/wasilmac/Desktop/git/ztm-ml/env/lib
+includedir=/Users/wasilmac/Desktop/git/ztm-ml/env/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 24.3.18
+Requires: 
+Requires.private: 
+Libs: -L/Users/wasilmac/Desktop/git/ztm-ml/env/lib -lfreetype
+Libs.private: -lz -L/Users/wasilmac/Desktop/git/ztm-ml/env/lib -lpng16 -lz
+Cflags: -I${includedir}/freetype2

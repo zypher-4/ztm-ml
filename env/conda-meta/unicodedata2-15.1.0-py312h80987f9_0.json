@@ -1,0 +1,105 @@
+{
+  "build": "py312h80987f9_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/opt/miniconda3/pkgs/unicodedata2-15.1.0-py312h80987f9_0",
+  "files": [
+    "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/LICENSE",
+    "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/METADATA",
+    "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/RECORD",
+    "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/WHEEL",
+    "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/unicodedata2.cpython-312-darwin.so"
+  ],
+  "fn": "unicodedata2-15.1.0-py312h80987f9_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/opt/miniconda3/pkgs/unicodedata2-15.1.0-py312h80987f9_0",
+    "type": 1
+  },
+  "md5": "f4ec1c6af9248540bf6ace0620337721",
+  "name": "unicodedata2",
+  "package_tarball_full_path": "/opt/miniconda3/pkgs/unicodedata2-15.1.0-py312h80987f9_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "cb5e8e7e5f4a3988e1063c142c60dc2df75605f4c46515e776e3aca6df976e14",
+        "sha256_in_prefix": "cb5e8e7e5f4a3988e1063c142c60dc2df75605f4c46515e776e3aca6df976e14",
+        "size_in_bytes": 11325
+      },
+      {
+        "_path": "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "2e60510939628972c0a4fc5f79e5080e47b4c411d5a1eb9f3fe51627a5157ed3",
+        "sha256_in_prefix": "2e60510939628972c0a4fc5f79e5080e47b4c411d5a1eb9f3fe51627a5157ed3",
+        "size_in_bytes": 3032
+      },
+      {
+        "_path": "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "b23f93a6c6f969bf6e41fcf7d78952da336c27e8beef0f0fd6df93bd8835dd8a",
+        "sha256_in_prefix": "b23f93a6c6f969bf6e41fcf7d78952da336c27e8beef0f0fd6df93bd8835dd8a",
+        "size_in_bytes": 808
+      },
+      {
+        "_path": "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "142adb6de1ff52ec3664c681f275be244ed77945957c5f97b56715258534666f",
+        "sha256_in_prefix": "142adb6de1ff52ec3664c681f275be244ed77945957c5f97b56715258534666f",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "81c88da5bf0b20500fb08d8e1aa70f47431bfcb88023e82d3615a4cc5f8b2dfc",
+        "sha256_in_prefix": "81c88da5bf0b20500fb08d8e1aa70f47431bfcb88023e82d3615a4cc5f8b2dfc",
+        "size_in_bytes": 143
+      },
+      {
+        "_path": "lib/python3.12/site-packages/unicodedata2-15.1.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "2efe3a3c550aa72f5a669a41449f07023f185c6a2da7d9c8bff8b9c93cb523d7",
+        "sha256_in_prefix": "2efe3a3c550aa72f5a669a41449f07023f185c6a2da7d9c8bff8b9c93cb523d7",
+        "size_in_bytes": 13
+      },
+      {
+        "_path": "lib/python3.12/site-packages/unicodedata2.cpython-312-darwin.so",
+        "path_type": "hardlink",
+        "sha256": "eb0a5705a1c0ed4bb7bc77d7d1bb44ff22efcd77f4f26a32cf9a7ba686388568",
+        "sha256_in_prefix": "eb0a5705a1c0ed4bb7bc77d7d1bb44ff22efcd77f4f26a32cf9a7ba686388568",
+        "size_in_bytes": 1334416
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4870e8ac62001d67ca745cdc1f99a66926529c218963110995955834bbf4436a",
+  "size": 544741,
+  "subdir": "osx-arm64",
+  "timestamp": 1713213015000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/unicodedata2-15.1.0-py312h80987f9_0.conda",
+  "version": "15.1.0"
+}

@@ -1,0 +1,68 @@
+{
+  "build": "h7ec7a93_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=14",
+    "libffi >=3.4,<3.5",
+    "libffi >=3.4,<4.0a0",
+    "zlib >=1.2.13,<1.3.0a0"
+  ],
+  "extracted_package_dir": "/opt/miniconda3/pkgs/libllvm14-14.0.6-h7ec7a93_3",
+  "files": [
+    "lib/libLLVM-14.dylib",
+    "lib/libLLVM-C.14.dylib",
+    "lib/libLTO.14.dylib",
+    "lib/libRemarks.14.dylib"
+  ],
+  "fn": "libllvm14-14.0.6-h7ec7a93_3.conda",
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "link": {
+    "source": "/opt/miniconda3/pkgs/libllvm14-14.0.6-h7ec7a93_3",
+    "type": 1
+  },
+  "md5": "b34f3de20415528b55733de1d0d1ccf9",
+  "name": "libllvm14",
+  "package_tarball_full_path": "/opt/miniconda3/pkgs/libllvm14-14.0.6-h7ec7a93_3.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libLLVM-14.dylib",
+        "path_type": "hardlink",
+        "sha256": "ba8cbf2e27ae558debe05cd3b1fe7ccae617487da190d355b32b3a568d5eb19b",
+        "sha256_in_prefix": "ba8cbf2e27ae558debe05cd3b1fe7ccae617487da190d355b32b3a568d5eb19b",
+        "size_in_bytes": 99364816
+      },
+      {
+        "_path": "lib/libLLVM-C.14.dylib",
+        "path_type": "hardlink",
+        "sha256": "17fc69a09dcacba7575bd0c77a8713a09fbb8b89129db7e4eda0011bfe5741f7",
+        "sha256_in_prefix": "17fc69a09dcacba7575bd0c77a8713a09fbb8b89129db7e4eda0011bfe5741f7",
+        "size_in_bytes": 152528
+      },
+      {
+        "_path": "lib/libLTO.14.dylib",
+        "path_type": "hardlink",
+        "sha256": "f1f80609cc6062513d85c4bf3e342de4755b9bba9240126bedfca55e99bc1034",
+        "sha256_in_prefix": "f1f80609cc6062513d85c4bf3e342de4755b9bba9240126bedfca55e99bc1034",
+        "size_in_bytes": 121408
+      },
+      {
+        "_path": "lib/libRemarks.14.dylib",
+        "path_type": "hardlink",
+        "sha256": "dcb41042f8bbf8a8a76bd535f52d5a7b8451d712c8dfece2bdd67da40ad52f12",
+        "sha256_in_prefix": "dcb41042f8bbf8a8a76bd535f52d5a7b8451d712c8dfece2bdd67da40ad52f12",
+        "size_in_bytes": 36336
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7e86f9df156b6ead5faa91072973c10caef050700729039aaf027b2ff442e02b",
+  "size": 23915002,
+  "subdir": "osx-arm64",
+  "timestamp": 1683291669000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/libllvm14-14.0.6-h7ec7a93_3.conda",
+  "version": "14.0.6"
+}

@@ -1,0 +1,9 @@
+Name: libecpg
+Description: PostgreSQL libecpg library
+Url: http://www.postgresql.org/
+Version: 12.17
+Requires: 
+Requires.private: libpq libpgtypes
+Cflags: -I/Users/wasilmac/Desktop/git/ztm-ml/env/include
+Libs: -L/Users/wasilmac/Desktop/git/ztm-ml/env/lib -lecpg
+Libs.private: -L/Users/wasilmac/Desktop/git/ztm-ml/env/lib -lpgcommon -lpgport -lm
